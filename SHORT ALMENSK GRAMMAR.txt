@@ -57,7 +57,7 @@ Irreg 1 	kana	kan 	ka'
 
 Irreg 2		mosta	most	mo'
 
-Irreg 3     --	 	skule	sku' (with emphasis) [should]
+Irreg 3 	--	 	skule	sku' (with emphasis) [should]
 			--		skul	sku' (no emphasis) [would]
 
 In addition to passive constructions formed with vara plus past tense, there is also an -s passive, formed by adding -s to the present tense form, or -es to the past tense form:
