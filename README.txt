@@ -12,4 +12,4 @@ The archive contains the grammar, and dictionaries. It is an attempt to keep the
 
 ### License and copyright
 
-Donald Traxler has stated: **My Almensk language requires no license, and is not copyrighted. You are free to use it and share it as you wish. I am no longer developing it, so if you wish to develop it further, you can do that, too. Enjoy!**
+Donald Traxler has stated: __My Almensk language requires no license, and is not copyrighted. You are free to use it and share it as you wish. I am no longer developing it, so if you wish to develop it further, you can do that, too. Enjoy!__
