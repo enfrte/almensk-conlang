@@ -1,4 +1,3 @@
-$ A
 a	en
 abbey	kloster
 abbreviation	forkortning
@@ -438,7 +437,6 @@ awkward	gosj/ukonvenjent
 awning	markise
 axe	öks
 axle	aksel
-$ B
 baby	baby
 babysitter	barnevakt
 bachelor	ungkar
@@ -789,7 +787,6 @@ buyer	köper
 by	ved/med/av
 by-pass	ringvei/omgoa
 byte	bajt
-$ C
 cab	drosje
 cab-driver	drosjesjoför
 cabaret	kabaret
@@ -1520,7 +1517,6 @@ cycling	sikling
 cyclist	siklist
 cylinder	silinder
 Czech Republic	Tjekiske Republikk
-$ D
 dad	far
 daddy	papa
 daffodil	poskelilje
@@ -1946,7 +1942,6 @@ dwell	bua
 dye (v/n)	farga/farge
 dynamo	dinamo
 dysentery	disenteri
-$ E
 e-mail	e-post
 each	varje
 each other	varandra
@@ -2327,7 +2322,6 @@ eyelash	öjavippa
 eyelid	öjalok
 eyes	öjar
 eyewitness	öjavitne
-$ F
 fable	fabel
 fabric	stoff
 façade	fasade
@@ -2719,7 +2713,6 @@ furthest	fjernest
 fuse (n)	sikring, lunte
 fuss (n)	brok, upstir
 future (n/a)	futur, fremtid/fremtidig
-$ G
 gable	gavl
 gadget	tingest
 gaiety	munterhet
@@ -3004,7 +2997,6 @@ gymnasium	gimnastikksal
 gymnast	gimnastikker
 gymnastics	gimnastikk
 gynecologist	ginekolog
-$ H
 haberdashery	herre-ekvipering
 habit	habite
 habitable	habitable
@@ -3320,7 +3312,6 @@ hypocrisy	hiukleri
 hypocrite	hiukler
 hypocritical	hiuklersk
 hysterical	hiusterisk
-$ I
 I	je
 I'd	je havad/je skul
 I'll	je skal
@@ -3679,7 +3670,6 @@ its	dets
 itself	desjelv
 ivory	elfenbejn
 ivy	eföu
-$ J
 jack (n)	jekk
 jacket	jakke
 jade	jade
@@ -3749,7 +3739,6 @@ just	just
 just right	lagom
 justice	retferdighet, rete
 juvenile	juvenil, ungdoms-
-$ K
 kangaroo	kenguru
 kayak	kajakk
 keel	kjöl
@@ -3807,7 +3796,6 @@ knowledge	kenskap
 known	vetad
 knows	veta
 knuckle	knuke
-$ L
 label (n/v)	etikett/etiketera
 Labor (n/v)	arbejd/anstrenga sej
 labor-saving	arbejds-besparande
@@ -4090,7 +4078,6 @@ lung	lunge
 lust (n/v)	begerr/begera
 luxurious	luksuriös
 luxury	luksus
-$ M
 machine	masjinn, aparatt
 machinery	masjineri
 mackerel	makrell
@@ -4522,7 +4509,6 @@ mystic	mistiker
 mystic	mistiker
 myth	miude
 mythical	miudisk
-$ N
 nail (finger)	nejl
 nail (hardware)	spik
 nail scissors	nejlsaks
@@ -4703,7 +4689,6 @@ nutmeg	muskattnöt
 nutrition	nutrisjon
 nutshell	nöt-sjell
 nylon	nilon
-$ O
 o'clock	kloken
 oak	ejk
 oar	ore
@@ -4903,7 +4888,6 @@ owner	ejer
 ox	okse
 oxygen	oksisjen
 oyster	östers
-$ P
 pace	gange, tempo
 pacifism	pasifisme
 pacifist	pasifist
@@ -5528,7 +5512,6 @@ put	seta
 puzzle (n)	puslespill
 puzzling	uforstoelig
 pyjamas	pijamas
-$ Q
 quack (n)	sjarlatan
 quai	kai
 quail (n)	vaktel
@@ -5563,7 +5546,6 @@ quota	kvote
 quotation	sitasjon
 quotation marks	sitasjonsmerkar
 quote (v)	sitera
-$ R
 rabbit	kanin
 rabies	rabies
 race	löp/ras
@@ -6018,7 +6000,6 @@ Russian	riusk/rius
 rust (n/v)	rust/a
 rustic	lands-
 rusty	rustad
-$ S
 saccharin	sakkarin
 sack	sek
 sacred	helig, sakrad
@@ -7061,7 +7042,6 @@ syrup	sukerlag, siropp
 system	sistem
 systematic	sistematisk
 systems	sistemar
-$ T
 table	bord
 table of contents	inneholstabell
 tablecloth	bordduk
@@ -7545,7 +7525,6 @@ typhoid	tiufus
 Typical	tipisk
 typist	masjinskriver
 tyrant	tirann
-$ U
 ugly	foul
 ulcer	sor
 ultimate	sista, ultimad
@@ -7731,7 +7710,6 @@ utilize	bruka, utilisera
 utmost	iutersta
 utopia	utopia
 utter (adj/v)	fulstendig/iutra
-$ V
 vacancy	vakansi
 vacant	vakant, ledig
 vacate	vakantera
@@ -7859,7 +7837,6 @@ voyage	rese
 vulgar	vulgerr, vanlig
 vulnerable	vulnerabel
 vulture	gam
-$ W
 wade	vada
 wade	vada
 wafer	ron
@@ -8120,11 +8097,9 @@ written	skrivad
 written (adj)	skriftlig
 wrong	uret
 wrote	skrivad
-$ X
 x-ray (n/v)	röntgenbild/röntga
 Xmas	jul
 Xmas,Winter Solsticejul
-$ Y
 yacht	lustjakt
 yacht club	segel selskap
 yachting	segelsport
@@ -8156,7 +8131,6 @@ yourself	du sjelv, dej
 yourselves	jer sjelvar
 Youth	ungdom
 youth hostel	ungdomsherberge
-$ Z
 zeal	iver
 zealous	ivrig
 zebra	sebra

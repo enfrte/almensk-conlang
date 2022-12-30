@@ -1326,7 +1326,7 @@ endosera	endorse
 energi	energy
 energisk	energetic
 eneste	sole (a)
-eneste/bare/men	Only (adj/adv/conj)
+eneste/bare/men	Only (adj/adv/conj) 
 enestoande, singulerr	singular
 enfasis	emphasis
 eng	meadow
@@ -3833,7 +3833,7 @@ lever	lever
 levera	deliver
 levering	delivery
 levetid	lifetime
-li	shelter (from wind)
+li	shelter (from wind) 
 li, bakke	hillside
 liabilitet	liability
 libanesisk/libaness	Lebanese
@@ -4430,7 +4430,7 @@ mur, vegg	wall
 murar, veggar	walls
 murer	bricklayer
 murstejn	brick
-murverk/mura	mortar (wall) (n/v)
+murverk/mura	mortar (wall) (n/v) 
 mus	mouse
 museum	museum
 musikalsk/musikall	musical (a/n)
@@ -5450,3 +5450,2698 @@ raportar	reports
 raportera/raport	report
 raporterad	reported
 rar, simpatisk	nice
+
+rar, ulike	odd
+rase-	racial
+raseri/rasa	rage (n/v)
+rasjon	ration
+rask	swift (a)
+rasp	grater
+rast/-a	rest (n/v)
+rastlös	restless
+rata	rate
+rata, stijra	steer (v)
+ratar	rates
+rate	steering wheel
+ratestong	steering column
+rattann	rattan
+rav	amber
+ravn	raven
+rayonn	rayon
+reaksjon	REACTION
+real, verklig	real
+realistisk	matter-of-fact
+realitet, verklighet	reality
+rebeljon	rebellion
+reda/redning	rescue (v/n)
+reda/spara	save (v/v)
+redaktör	editor
+redan	already
+rede	nest
+redik	radish
+redimma	redeem
+redningsman	savior
+reduksjon	reduction
+redusera	reduce
+reduserad	reduced
+refera	refer
+referens	reference
+refill/a	refill (n/v)
+refleksjon	reflection
+reflekta	reflect
+reflektor	reflector
+reforsikra	reassure
+refundera	refund (v)
+refusa	refuse (v)
+refusad	refused
+refusing	refusal
+regard/a	regard
+regardad	regarded
+regatte	regatta
+regel/regering/regera	rule (n/n/v)
+regelar	rules
+regent/linjal	ruler (n/n)
+regera, guverna	govern
+regering	government
+regeringar	governments
+regeringstid	reign
+registrasjon	registration
+regjon	region
+regjonal	regional
+regnfrakk	mackintosh
+regret/a	regret
+regular	regular
+regulera	regulate
+regulering	regulation
+rehabilitera	rehabilitate
+rehabilitering	rehabilitation
+rejeksjon	rejection
+rejekta	reject
+rejn/a	rain (n/v)
+rejnbue	rainbow
+rejnera	reckon
+rejnfrak	raincoat
+rejnful	rainy
+rejnsdir	reindeer
+rejsa sej	rise
+rejsa/uprejst	erect (v/a)
+rejsande sej	rising
+rejse	trip
+rejsehandbok	guidebook
+rejsonabel	reasonable
+rejsonn	reason, cause
+rejsonn/rejsonera	reason (n/v)
+rejsonnar	reasons
+reke	prawn
+reke	shrimp
+reke/reka	chain n/v
+rekira	require
+rekira	requires
+rekirad	requisite
+rekiring	requirement
+rekiringar	requirements
+reklame	advertising
+rekna, kalkulera	calculate
+rekning	arithmetic
+rekning/nota/fakturera	bill
+rekognisera	recognize
+rekogniserad	recognized
+rekognisjon	recognition
+rekomendasjon	recommendation
+rekomendera	recommend
+rekonsiliasjon	reconciliation
+rekord/registrera	record
+rekord/rekorda	record (n/v)
+rekordar	records
+rekorder	recorder
+rekording	recording
+rekovra	recover
+rekovring, betring	recovery
+rekreasjon	recreation
+rekrutt/rekrutera	recruit (n/v)
+rektangel	rectangle
+rektangulerr	rectangular
+rektor	rector
+rektorie	rectory
+rektum	rectum
+rekvest/a	request
+rekvid	range
+relaksa	relax
+relaksasjon, avkopling	relaxation
+relasjon	relation
+relasjon/relativ	relative (n/adj)
+relasjonar	relations
+relasjonskap	relationship
+relata	relate
+relatad	related
+relatad	related
+relativlig	Relatively
+relieva	relieve
+relieving, help/relieff	relief
+religion	religion
+religiös	religious
+relik	relic
+rem	strap
+remark/a	remark (n/v)
+remarkable	remarkable
+remedie	remedy
+rememora/tilbakekala	recall
+rememoring	remembrance
+reminna	remind
+remissa	remit
+remisse	remittance
+remote	remote
+remova	remove
+removad	removed
+removing	removal
+remse	strip (n)
+remunerasjon	remuneration
+ren	pure
+ren o sjer	mere
+ren/sa	clean
+renjöring	cleaning
+rennestejn	gutter
+rensa	dry-clean
+renseri	dry-cleaner's
+rep	rope
+reparasjon	reparation
+reparera	mend
+reparera	fix
+reparera/reparasjon	repair (v/n)
+repelant	repellent
+repentans	repentance
+repertorie	repertory
+repetera	repeat
+repeterad	repeated
+repetisjon	repetition
+replasera	replace
+reporter	reporter
+representasjon	representation
+representativ	representative
+representera	represent
+representerad	represented
+reprimand/a	reprimand (n/v)
+reproduksjon	reproduction
+reprodusera	reproduce
+reptill	reptile
+republikansk	republican (adj)
+republikk	republic
+repulsiv	repulsive
+reputasjon	reputation
+res-veska	suitcase
+resa	TRAVEL (v)
+rese	voyage
+resenörr	traveller
+resenta	resent
+resepsjon	reception
+resepsjoniste	receptionist
+resepte	receipt
+reservasjon	reservation
+reserve, ekstra	spare
+reservera/reserve	reserve (v/n)
+reserverad	reserved (adj)
+reservoar	reservoir
+resever/telefonlur, lur	receiver
+resida	reside
+residens	residence
+resident	resident
+resigna	resign
+resignasjon	resignation
+resin	resin
+resirkulera	recycle
+resirkulerbar	recyclable
+resistans	resistance
+resistera	resist
+resjime	régime
+resolusjon	resolution
+resolutt	resolute
+respekt/era	respect
+respektabel	respectable
+respektful	respectful
+respektiv	respective
+respirasjon	respiration
+respit	respite
+responda	respond
+responsabel	responsible
+responsabilitet	responsibility
+rest	remainder
+rest, levning	remnant
+restaurant	restaurant
+restera	remain
+restera	remains
+resterad	remained
+resterande	remaining
+restrena	restrain
+restriksjon	restriction
+restrikta	restrict
+resultatt	outcome
+resultatt/resultera	result (n/v)
+resultattar	results
+resuma	resume
+resumej	résumé
+resursar	resources
+ret	fairly
+ret, proper	proper
+reta	tease (v)
+retalj	retail
+retaljist	retailer
+retferdighet, rete	justice
+retina	retina
+retsak	lawsuit
+retsak/prov	trial
+rett	appropriate (a)
+return/a	return
+returnad	returned
+reumatisme	rheumatism
+rev	fox
+rev	reef
+revansj	revenge
+reve	tear (n, torn)
+revela	reveal
+revelasjon	revelation
+revenu	revenue
+reverens	reverence
+revers	reverse
+revisera	revise
+revisjon	revision
+revival	revival
+revju	revue
+revju/a	review (n/v)
+revjuteater	music-hall
+revolt/a	revolt
+revolusjon	revolution
+revolusjonerr	revolutionary
+revolver	revolver
+ribbejn	rib
+ridder, knekt	knight
+rider	rider
+rideskole	riding school
+ridikul/a	ridicule (n/v)
+ridikulös	ridiculous
+ridning	riding (n)
+rik	rich
+rikdom	riches
+rikedom	wealth
+rikelig	plentiful
+rikelighet	plenty
+riklig	abundant
+riklighet	plenty
+riksvei, motorvei	highway
+rim	rhyme
+rimme	rim
+ring/a	ring (n/v)
+ringade	rang
+ringvei/omgoa	by-pass
+rinsa	rinse
+riot/a	riot (n/v)
+ris	rice
+risikabel	risky
+risike/risikera	risk (n/v)
+risiko	hazard
+rist/raspa	grate (n/v)
+rit	rite
+ritme	rhythm
+ritme, slag	beat
+ritter	horseman
+ritual	ritual
+riukte	rumor
+riunke	wrinkle (n)
+riupe	grouse (n)
+riusk/rius	Russian
+Riusland	Russia
+riva	tear (v)
+riva/rivning	rip (v/n)
+rival	rival
+rivalitet	rivalry
+ro	raw
+roabot	rowboat
+robust	robust
+röd	Red
+rödbrust	robin
+rödma	blush
+rogn	roe
+rol	role
+Roma	Rome
+roman-skriver	novelist
+romann	novel (n)
+romanse	romance
+romansk	Roman
+romantisk	romantic
+romelig	spacious
+römling	runaway
+ron	wafer
+röntgenbild/röntga	x-ray (n/v)
+ror	helm
+ror	rudder
+rör	stirring (n)
+rör/röra	stir (n/v)
+rörande	touching
+rörleger	plumber
+rormann	helmsman
+rose/rosa	Rose (n/adj)
+rosenkrans	rosary
+rosin	raisin
+rot	mess
+rota til	mess up
+rote	rat
+rotten	rotten
+rouge	rouge (n)
+röuk/a	smoke (n/v)
+röuker	smoker
+röukerum	smoking-room
+röukevogn	smoking-car
+röuking (forbidad)	smoking (no)
+ru	rough
+rubi	ruby
+rue	rug
+rugsek	rucksack
+rugsek	knapsack
+rugsek	haversack, rucksack 
+ruinar	ruins
+ruinera	ruin
+ruinering	ruination
+rulestejn	boulder
+rulett	roulette
+rull/a	roll (n/v)
+rullesköjting	roller skating
+rum	chamber
+rum	room
+rumar	rooms
+rumelig	roomy
+Rumenien	Rumania
+rumensk/rumenn	Rumanian
+rumpeballe	buttock
+rumspika	chambermaid
+rund/om	round (adj/prep)
+rundkörelig	roundabout (adj)
+rundköring	roundabout (n)
+rundrese/rundresa	tour (n/v)
+rusisk	Russian
+rusjtid	rush-hour
+Rusland	Russia
+rust/a	rust (n/v)
+rustad	rusty
+rustfri stol	stainless steel
+rustning	armor
+rut	root
+rutad	checkered
+rute	route
+ruteplan, timeplan	schedule (n)
+rutine	routine
+sadal	saddle
+safir	sapphire
+saft	juice
+saftig	juicy
+sag	saw (n)
+saga	tale
+sagbruk	sawmill
+sagflis	sawdust
+saja	says
+saja	say
+sajad	told
+sajad	said
+sajande	saying
+sakkarin	saccharin
+saks	scissors
+sakta	lower, lessen
+sakta farten	slow down
+sal	hall
+salari	pay (n)
+salarie	salary
+salatt	salad
+salmiakk	ammonia
+salong	lounge (n)
+salong	salon
+salong	drawing-room
+salt	salt
+saltig	salty
+saltkar	salt shaker
+salve	ointment
+salve	salve
+sam	same
+sama, lik	equal
+samenheng	coherence
+samenkomst	get-together
+samensmeltning	merger
+samfund	community
+samfund, sosjietet	society
+samla	gather
+samla	assemble
+samla, kolekta	collect
+samla/kompilera	compile
+samler, kolekter	collector
+samling, koleksjon	collection
+samordna, koordina	coordinate (v)
+samtale, konversasjon	conversation
+samtidig	simultaneous
+samtinke, konsent	consent
+samvete, konsjens	conscience
+sanatorium	sanatorium
+sand	sand
+sandal	sandal
+sanddune	dune
+sandig	sandy
+sandpapir	sandpaper
+sanferdig	truthful
+sang	song
+sangar	songs
+sanger/ine	singer
+sanhet, sanning	truth
+saniterr	sanitary
+sanitetsbind	sanitary napkin
+sansiunnlig	likely
+sardinn	sardine
+satelitt	satellite
+sateng	satin
+satisfaksjon	satisfaction
+satisfaktrig	satisfactory
+satisfera	satisfy
+sau	sheep
+Saudi-arabien	Saudi Arabia
+saudiarabisk/saudiaraber	Saudi Arabian
+saune	sauna
+saus	sauce
+saus-panne	saucepan
+sauser	saucer
+sausiss	sausage
+se up	watch out
+sea	looks (v)
+sea	see
+sea, nota	spot (v)
+sea, se ut, se po	Look
+sead	looked
+sead	saw
+sead	seen
+seahull	porthole
+seande	looking
+seande	seeing
+seapunkt	point of view
+sebra	zebra
+sedativ	sedative
+sedatt/sedatera	sedate (adj/v)
+seduksjon	seduction
+sedusera	seduce
+seg, tuff	tough
+segel selskap	yacht club
+segel/seglera	seal (n/v)
+segelsport	yachting
+sej, sjelv	herself
+sejl/a	sail (n/v)
+sejlbar	navigable
+sejlbot	sailboat
+sejna/sejnera/etapa	stage
+sejne	scene
+sejne, etapp	stage (n)
+sejnik	scenik
+sek	sack
+sekert	surely
+sekret	secret
+sekreterr	secretary
+seks	six
+seksjon	section
+seksjon	sections
+sekste	sixth
+seksti	sixty
+sekstite	sixtieth
+sekston	sixteen
+sekstonte	sixteenth
+seksuell	sexual
+sekunderr	secondary
+sekvel	sequel
+sekvens, serie/sekvensa	sequence (n/v)
+sel	seal (zool)
+sela	sell
+selbar	saleable
+selebra	celebrate
+selebrasjon	celebration
+selebritet	celebrity
+seleksjon	selection
+selekta/selekt	select (v/adj)
+selektad	selected
+seler	salesperson
+seleri	celery
+selibat	celibacy
+selibatig	celibate
+sellar	cells
+selle	cell
+selning, utselning	sale
+selningar	sales
+selningsbord	stall (n)
+selofan	cellophane
+selsius	centigrade
+selv	oneself
+selv	self
+selvgod	conceited
+sement/era	cement
+semikolon	semicolon
+sen	late
+senare	afterwards
+senare	latter
+senare	later
+senatör	senator
+senatt	Senate
+senda	send
+senda	transmit
+senda bort	dismiss
+sendad	sent
+sendaman	envoy
+sending	consignment
+sene	tendon
+sene	sinew
+seng	bed
+sengerum	bedroom
+sengeteppe	counterpane
+sengetöu	bedding
+senilitet	senility
+senill	senile
+sens/fornuft/mening	sense (n)
+sensasjon	sensation
+sensasjonell	sensational
+sensitiv	sensitive
+sensjiens	sentience
+sensur	censorship
+sensurera	censor
+sent	cent
+sentens/dom/döma	sentence (n/n/v)
+sentimentall	sentimental
+sentimeter	centimeter
+sentral	Central
+sentralisera	centralize
+sentrum	center
+separat/separera	separate (a/v)
+separatt	separately
+september	September
+septisk	septic
+serebrum	brain
+seremoni	ceremony
+serenitet	serenity
+serenn	serene
+seriall	serial (n/a)
+serie	series
+seriös	serious
+seriösitet	seriousness
+serlig	particularly
+sertifikat	certificate
+serum	serum
+servant	servant
+servera	serve
+serverad	served
+serviett	napkin
+serviett	serviette
+servisar	services
+servise	service
+servitris	waitress
+sesjon	session
+seson, orstid	season (n)
+seson-bilett	season ticket
+seta	put
+seta i gang/motorbot	launch (v/n)
+seta i stand	enable
+seta/grup, sett	set
+setande	setting
+sete, plas, siteplas	seat
+seting	setting
+setla	settle
+setlad	settled
+sett	kit (n)
+settar	SETS (n)
+severr	severe
+sexualitet	sexuality
+sfere	sphere
+Siam	Siam
+siamesisk/siamess	Siamese
+sidan	since
+sidar	sides
+side	side
+side-gate	sidestreet
+side-lius	sidelight
+siffer	digit
+sifon	syphon
+sifong	siphon
+sigar	cigar
+sigarett	cigarette
+signal/isera	Signal (n/v)
+signatur	signature
+signifikans	significance
+signifikant	significant
+sigöjner	gipsy
+sikel	cycle (bi-)
+sikel	bicycle
+siker	safe (adj)
+siker	sure
+siker	certain
+siker, vis	certain (known)
+siker/sikra sej	secure (adj/v)
+sikerhet	security
+sikerhet	safety
+sikerhets-barber	safety razor
+sikerhets-belte	safety belt
+sikerhets-nett	safety net
+sikerhets-nol	safety pin
+sikerhetsbelte	seatbelt
+sikerlig	certainly
+sikling	cycling
+siklist	cyclist
+siklus	cycle (gen)
+sikring, lunte	fuse (n)
+sikt, siune, skue	sight
+sikte/sikta po	aim
+sil/a	sieve (n/v)
+sild	herring
+silinder	cylinder
+silke	silk
+silke-	silken
+silkeblöt	mellow
+sima	seem
+sima	seems
+simad	seemed
+simbol	symbol
+simfoni	symphony
+simpatetik	sympathetic
+simpati, medkensle	sympathy
+simpel	simple
+simpelt	simply
+simptom	symptom
+sinagoge	synagogue
+sind	mind
+sindar	minds
+singa	sing
+sinisterr	sinister
+sinka	sink (v)
+sinna	anger
+sinnsiuk	lunatic
+sinnsiuk	insane
+sinnsiukhet	madness
+sinnsiukhet	lunacy
+sinonim	synonym
+sint	angry
+sintetisk	synthetic
+sirene	siren
+sirka	approximately
+sirkel	Circle
+sirkonstansar	circumstances
+sirkulasjon	circulation
+sirkus	circus
+sist	last
+sist/vara	last (adj/v)
+sista, ultimad	ultimate
+sistem	system
+sistemar	systems
+sistematisk	systematic
+sita	sit
+sitad	sat
+sitande	sitting
+sitasjon	quotation
+sitasjonsmerkar	quotation marks
+sitera	quote (v)
+sitronn	lemon
+situad	situated
+situasjon	situation
+siua	sew
+siua-masjinn	sewing machine
+siud	South
+Siudafrika	South Africa
+siudafrikansk/siudafrikan South African
+siudame	dressmaker
+siudlig	Southern
+siudöst	southeast
+siudvest	southwest
+siuk	sick
+siuk/dorlig	ill
+siukdom	illness
+siuke	sickness
+siukesöster	nurse
+siuletöu/trafikk-kork	jam (n)
+siura, asid	acid
+siv	reed
+sivil	civil
+sivil	civil
+sivilisasjon	civilization
+siviliserad	civilized
+sjak	chess
+sjak-bonde	pawn (n)
+sjal	shawl
+sjalej	chalet
+sjalu	jealous
+sjalusi	jealousy
+sjaman	shaman
+sjamanisk	shamanic
+sjamanism	Shamanism
+sjampagne	champagne
+sjampu	shampoo
+sjans	chance
+sjans, oportunitet	opportunity
+sjark	shark
+sjarlatan	quack (n)
+sjarm	glamour
+sjarm/-era/amulett	charm
+sjarmerande	charming
+sjassis	chassis
+sjebne	fate, luck
+sjef	chief
+sjef	chef
+sjeg	beard
+sjeg-harar	whiskers
+sjej	spoon
+sjejful	spoonful
+sjekbok	checkbook
+sjekk/a/kontrolera	check
+sjel	soul
+sjela	scold
+sjelden	infrequent
+sjelden	rarely
+sjelden	seldom
+sjelden/letkokad, blodig	rare
+sjelej	jelly
+sjell	seashell
+sjell	shell
+sjell-fisk	shellfish
+sjeller	cellar
+sjelv	herself
+sjelv	himself
+sjelv-ansettad	self-employed
+sjelv-servise	self-service
+sjelv-stire	self-government
+sjelv-uptakad	self-centered
+sjelv/a	shiver (n/v)
+sjelvisk	selfish
+sjelvmord	suicide
+sjembalo	harpsichord
+sjenerell/general	general (a/n)
+sjenerelt	generally
+sjenerös	generous
+sjenerösitet	generosity
+sjenij	genius
+sjer	sheer (as cliff)
+sjera	shear (v)
+sjera	carve
+sjera/snit	cut
+sjere	magpie
+sji	shy
+sjifer	slate
+sjiftniukel	wrench
+sjijn	glare
+sjijnande	glossy
+sjijnande	glaring
+sjijne	gloss
+sjina, strola	shine
+sjinke	ham
+sjip/a	ship (n/v)
+sjipsreder	shipowner
+sjipsverft	shipyard
+sjiten	foul (a)
+sjiu	cloud
+sjiu	gravy
+sjiu	shy
+sjiuad, oversjiuad	cloudy
+sjiubrud	cloudburst
+sjiuge	shadow
+sjiuge	shade
+sjiugeful	shady
+sjiuhet	shyness
+sjiut	shot (n)
+sjiuta	shoot
+sjiutad	shot (v)
+sjive	slice (n)
+sjo	shoe
+sjö	sea
+sjo-forretning	shoeshop
+sjö-reise	cruise
+sjöbilde	seascape
+sjöfogel	seabird
+sjoförr	chauffeur
+sjok/era	shock (n/v)
+sjokdemper	shock absorber
+sjokerande	shocking
+sjokolade	chocolate
+sjokrem	shoe polish
+sjökust, kust	seacoast
+sjolise	shoelace
+sjomaker	shoemaker
+sjöman	seaman
+sjöman	sailor
+sjömoke	seagull
+sjön	lovely
+sjöpinsvin	sea urchin
+sjört	shirt
+sjorts	shorts
+sjösetning	launching (n)
+sjösiuk	seasick
+sjösiuke	seasickness
+sjöva	push
+sjövaten	seawater
+sjöveknap	push-button
+sjrik/a	shriek (n/v)
+sjrik/a	shout (n/v)
+sjrik/a, hul/a	scream (n/v)
+sju	seven
+sjue, spektakle	spectacle
+sjukdom	disease
+sjukdom	ailment
+sjuld	guilt
+sjulda	blame (v)
+sjuldig	guilty
+sjumning	twilight
+sjuna	hasten
+sjuskad	slovenly
+sjute	seventh
+sjuti	seventy
+sjutite	seventieth
+sjuton	seventeen
+sjutonte	seventeenth
+Sjvejts	Switzerland
+sjvejtsisk/sjvejtser	Swiss
+skada	injure
+skade	injury
+skade/skada	harm (n/v)
+skade/skada	damage
+skadelig	hurtful
+skafa sej	acquire
+skaft/behandla	handle (n/v)
+skaka, rista	shake
+skakad, ristad	shook
+skakelig, ristelig	shaky
+skal	shall
+skal ike	won't
+skal/vilje, testamente	will (aux/n)
+skala	scale
+skalle, kranium	skull
+skam/skamera	shame (n/v)
+skamful	ashamed
+skandale	scandal
+Skandinavia	Scandinavia
+skandinavisk/skandinav	Scandinavian
+skap	cupboard
+skap	closet
+skapa, kreera	create
+skapad, kreerad	created
+skapning	creature
+skarleröd	scarlet
+skarp	keen
+skarp, vass	sharp
+skarpna	sharpen
+skat/skatlegga, beskata	Tax (n/v)
+skatefri	tax-free
+skaut	scout
+skedulera	schedule (v)
+skelett	skeleton
+skeme/plotera	scheme (n/v)
+skerf	scarf
+skerm	screen
+ski-bukse	ski pants
+ski/a	ski (n/v)
+skift/a	shift (n/v)
+skihejs	ski-lift
+skihopp	ski-jump
+skilöper	skier
+skilöping	skiing
+skinn	hide (n)
+skise/skisera, tekna	sketch (n/v)
+skisebok	sketchbook
+skistavar	ski poles
+skistövlar	ski boots
+skitten	filthy
+skiuöjad	cross-eyed
+skog	forest
+skog	wood (forest)
+skogig	wooded
+skogstrakt	woodland
+sköjta	scate
+skolar	schools
+sköldpadde	turtle
+skole	school
+skolepike	schoolgirl
+skolepojke	schoolboy
+skolerr, student, elev	scholar
+skönhet	beauty
+skönt	although
+skorpe	crust
+skorstejn	chimney
+skört	skirt
+skotöu	footwear
+skotsk	Scotch (adj)
+skotsk	Scottish
+Skottland	Scotland
+sköute-bane	skating rink
+sköute/sköuta	skate (n/v)
+sköuting	skating
+skrap	junk
+skrapa	scrape
+skrapa, rispa/risp	scratch (v/n)
+skrapjern	scrap iron
+skreder-siuad	tailor-made
+skrek, angst	fright
+skrell/a	peel (n/v)
+skrema/panikk	scare (v/n)
+skremelig	scary
+skrift	writing
+skriftlig	written (adj)
+skrita	boast
+skriva	write
+skrivad	written
+skrivad	wrote
+skrivblok	writing pad
+skrivebord	desk
+skriver, forfatter	Writer
+skriverar, forfatterar	Writers
+skrivmasjin	typewriter
+skron/a	slant (n/v)
+skrona/skroning	slope (v/n)
+skronande	sloping
+skronande, skro	slanting (a)
+skruba	scrub
+skrue/skrua	screw (n/v)
+skrujern	screwdriver
+skua	behold
+skudd-or	leap-year
+skuespil-autorr	playwright
+skuf	drawer
+skuf/a	shovel (n/v)
+skufa	disappoint
+skufning	disappointment
+skul ike	WOULDN'T
+skul vila, vila jerne	would like
+skula	conceal
+skulder	shoulder
+skulle (irreg 3)	would (condit)
+skulptor	sculptor
+skulptur	sculpture
+skum	lather
+skum	froth
+skum-gummi	foam-rubber
+skum/skuma	foam (n/v)
+skur	shed (n)
+skure (regn)	shower (n)
+skurk	rascal
+skurn/a	scorn (n/v)
+skuter	scooter
+skvete	splash
+slader/sladra	gossip (n/v)
+slag	tap (action)
+slag/a	hit
+slag/blosa	blow (n/v)
+slaganfal	stroke
+slagord	slogan
+slange	snake
+slank	slim (a)
+slank	slender
+slanka sej	slim down
+slapp/halta	limp (a/v)
+slave	slave
+slede	sleigh
+slede	sledge
+slede	sled
+slem	naughty
+slenga, kasta	throw
+slengad, kastad	threw
+slepa	haul
+slepa	drag
+sleppvagn, husvagn	trailer
+slete	plain (n)
+slikka	lick
+slingrande	winding (adj)
+slipnus, slips	necktie
+slipper	slipper
+slita ut	wear out
+slitad	worn
+sliu	cunning
+sloa	beat
+sloa	strike
+sloa mot	slam
+sloa, ramma, trefa	hit (v)
+sloa/punsj	punch (v/n)
+sloande, markad	striking
+slösa/slöseri	waste (v/n)
+slösig	wasteful
+slöv	blunt
+slu	sly
+slud	sleet
+slum	slum
+slurvad	sloppy
+sluse	sluice
+sluta, stopa	quit
+smak	flavor
+smak/a	taste
+smaklös	tasteless
+smal vej, fil	lane
+smalstejn	pebble
+smaragd	emerald
+smart	smart (a)
+smed	smith
+smeka	smack
+smelta	melt
+smelta, toa/toveder	thaw (v/n)
+smerte	pain
+smertefri	painless
+smerteful	painful
+smil/a	smile
+smilad	smiled
+sminke	make-up
+sminköse	make-up girl
+smittsom	contagious
+smiuke	jewel
+smiuker	jewelry
+smogris	piglet
+smokake	cookie
+smoking	dinner-jacket
+smoking	tuxedo
+smolig	petty
+smörje	trash (n)
+smospendig, smogivig	stingy
+smugla	smuggle
+smule	crumb
+snabköp	supermarket
+snakbar	snack-bar
+snapshot	snapshot
+snart	soon
+snart	presently (adv)
+snart	shortly
+snartare	sooner
+snejl	snail
+snel, venlig/sort	kind (a/n)
+snijka	sneak
+snijkhöra	eavesdrop
+sniksjuter	sniper
+snilhet	kindness
+snit/sjerande	cutting
+sniud	twine
+snö/a	snow
+snödekad	snowy
+snöre, tejp	tape (general)
+snorka	snore
+snorkel	snorkel
+snöslaps	slush
+snöstorm	blizzard
+snöstorm	snowstorm
+snubla	stumble
+snure	string
+snut	snout
+snutig	snooty
+so	so
+so-kalad	so-called
+soa	sow (v)
+sobri	sober
+soda-vaten	soda-water
+sodan, son	such
+sofa	sofa
+sojlad	dirty
+sojle	dirt
+söka	seek
+söka efter/ransaka/sökningsearch (v/v/n)
+sökad	sought
+söker	viewfinder
+soket	socket
+sokk	sock
+sol	sun
+sol-nedgang	sunset
+sol-upgang	sunrise
+söla	spill (v)
+solbad	sunbath
+solbada	sunbathe
+solber	black-currant
+solbrend	tanned
+soldat	soldiers
+sole, fliundre	sole (fish)
+soledes	thus
+solemne	solemn
+solglasar	sunglasses
+solid	solid
+solid/firma	firm (a/n)
+solig	sunny
+söling, fall	spill (n)
+solisitör, advokatt	solicitor
+solist-konsert	recital
+solljus	sunlight
+sololje	suntan oil
+sololje	sunscreen
+solparasoll	sunshade
+solsjin	sunshine
+solsting	sunstroke
+solusjon	solution
+solusjon	solution
+sölv	silver
+solva	solve
+sölvsmed	silversmith
+sölvtöu	silverware
+söm	seam
+som, lika, so	as
+som/vilken	which (rel/int)
+somber	sombre
+somer	summer
+somerfogel	butterfly
+somne/somna	sleep
+somnelig	sleepy
+somnelös	sleepless
+somnepile	sleeping pill
+somnepose	sleeping bag
+somnevogn	sleeping car
+son	son
+söndag	Sunday
+sonsson, dattersson	grandson
+sope	soap
+sor	wound (injury)
+sor	ulcer
+sor	sore
+sora	wound (v)
+sorg	sorrow
+sorg, smerte	grief
+sörga	grieve
+sörgetid	mourning
+sortera/sort	sort
+sortiment	assortment
+sosjal	social
+sosjalisme	socialism
+sosjalist/isk	socialist (n/a)
+söster	sister
+söt	Sweet
+söta	sweeten
+sötköp	sweetshop
+sötsakar	sweets
+soupa	sweep
+sovande	asleep
+sovasje	savage (adj)
+sovevogn	Pullman
+sovjet	Soviet
+sovjetisk	Soviet
+spade	spade
+spam/a	spam (n/v)
+span	pail
+span	bucket
+Spanien	Spain
+spanjor	Spaniard
+spansk	Spanish
+spara	economize
+sparebank	savings bank
+sparepengar	savings
+spark/a	kick (n/v)
+spejl	looking-glass
+spejl	mirror
+spekulera	speculate
+spelsak	toy
+spelsakshandel	toyshop
+spendera	spend (v)
+spenderad	spent
+spene/spenera	buckle
+spesiell	particular
+spesies	species
+spesifikk	specific
+spesimen	specimen
+spesjalisera sej	specialize
+spesjalist	specialist
+spesjalitet	specialty
+spesjel	special
+spesjellt	specially
+spets	tip (of obj)
+spik	nail (hardware)
+spil	game
+spila	play
+spila	gamble (v)
+spila/skuespilar	plays (v/n)
+spilad	played
+spilande	playing
+spilar	games
+spile-maskin	slot machine
+spilkort	playing card
+spilplas	playground
+spinat	spinach
+spine	spine
+spinna	spin
+spinster	spinster
+spion	spy
+spir	spire
+spisa middag	dine
+spise vogn	dining-car
+spisesal	dining-room
+spiskammer	larder
+spitsig	pointed
+spiu/a	vomit (n/v)
+spiur	spear
+spiut/a	spit (n/v)
+splinter	splinter
+spök/a	joke (n/v)
+spökelse	spook
+spökning	ghost
+spor, bane/spora	track (n/v)
+spor, stig	trail (n)
+spor/a	trace (n/v)
+sport	sport
+sports-jakke	sportcoat
+sportsbil	sports car
+sportskledar	sportswear
+sportsman	sportsman
+sporvagn	streetcar
+sporvagn	tram
+sprea	spread
+sprea	scatter
+spreka	crack
+sprekk, imperfeksjon	flaw
+sprenga	spring (v)
+springvaten	fountain
+sprö	crisp
+sprok	language
+sprut/a	squirt (n/v)
+spule	spool
+spurv	sparrow
+sput	spout (n)
+sta	pig-headed
+sta	headstrong
+sta	dogged (a)
+stabil/stall	stable (adj/n)
+stad	City
+stad	town
+stadar	cities
+stadig	steady
+stadig, frekvente	frequent
+stadion	stadium
+stads-	urban
+stadsboerar	townspeople
+stakel	stack (n)
+staklera	stack (v)
+stalke	stem (n)
+stam	tribe
+stam	trunk (of tree)
+stand, tribune	stand (n)
+standard	Standard
+standardar	standards
+stang	pole
+stang	rod
+stansa, stopa	halt
+stark, kraftig	strong
+start	take-off
+starta	start
+startad	started
+startande	starting
+startbane	runway
+starter	starter motor
+stasjon	Station
+stasjon, posisjon	station
+stasjonar	stations
+stasjonsinspektor	station-master
+stat, stand	State (n)
+statar	states
+statering	statement
+statering	statement
+statistikk	statistics
+statju	statue
+statsman	statesman
+statsminister	premier
+status	status
+stava	spell (v)
+stavening	spelling
+stavning, silabel	syllable
+sted	site
+sted	locality
+stedad, ordentlig/steda	tidy (adj/v)
+stedar	places
+stedfast	steadfast
+steg	rung (ladder)
+stejnbrud	quarry
+stejnet	rocky
+stejntö	earthenware
+stek/a	roast (n/v)
+steka	fry (v)
+stekapanne	frying pan
+stel	stiff
+stella in	tune in (v)
+sten	Stone
+stenograf	stenographer
+stenografi	shorthand
+ster	starling
+stera	gaze (v)
+steril	sterile
+sterilisera	sterilize
+sterkande medel	tonic
+stige	ladder
+stik/a	sting (n/v)
+stikad	stung
+stikelsber	gooseberry
+stil	style
+stil	style
+stilas	scaffolding
+stile	silent
+stile/stilhet	quiet (a/n)
+stilhet	silence
+stilhet	stillness
+stille	calm
+stilstoande, stasjonerr	stationary
+stimulantt	stimulant
+stimulera	stimulate
+stinke/stinka	stink (n/v)
+stipend, skolerrhet	scholarship
+stipulasjon	stipulation
+stipulera	stipulate
+stirad	led
+stirad	stared
+stirka	strength
+stirte/stirta	dash
+stiuard	steward
+stiugn/a	stitch (n/v)
+stiuke	piece
+stiurbord	starboard
+stiuvbarn	stepchild
+stiuvfar	stepfather
+stiuvmor	stepmother
+stivelse, stiva	starch (n/v)
+stjela	steal
+stjelad	stolen
+stjelad	stole (v)
+stjelning	theft
+stjerne	star (n)
+stoa	stands
+stoa	stand (v)
+stoad	stood
+stoande	standing
+stof, varar	goods
+stoff	fabric
+stoff	cloth
+stoff	content (n)
+stoka	shuffle
+stokadd	fence
+stokande	rowdy
+stol	chair
+stol	chair
+stol	steel
+stola po	rely on
+stolbar	reliable
+stole	stole (n)
+stolpille	suppository
+stolt	proud
+stolthet	pride
+stöna	groan
+stop/a	stop
+stopa	cease
+stopa	stem (v)
+stopad	stopped
+stoper	stopper
+stoppa	darn
+stor	large
+stor	great
+stor	great
+stor	big
+stor stiuke	chunk
+storare	larger
+storare	greater
+storhet, dimensjon	size
+stork	stork
+storlig	greatly
+storlig	largely
+storm	gale
+storm	storm
+stormig	stormy
+storst	greatest
+stöt/a	bump
+stöta po	run into
+stötfanger	bumper
+stöv	dust
+stövet	dusty
+stövlar	boots
+stram/fast	tight (adj/adv)
+strand	seashore
+strand	beach
+strand, kiust	Shore
+strejfa omkring	roam
+strejkad	struck
+strek ut	reach out
+streka	stretch
+streng	harsh
+stres	stress
+streva	strive
+strika	knit
+strikefri	drip-dry
+strikk	rubber band
+strikt	strict
+strime	wisp
+striupa	strangle
+stro	straw
+strofe	stanza
+strolande	bright
+strolande	radiant
+strole	ray
+strole	beam
+strole/jetfliu	jet
+ström/a	stream (n/v)
+ströma, fliuta	flow
+strömpebukse	panty-hose
+struktur	structure
+strumpe	stocking
+strupe, hals	throat
+student	student
+studentar	students
+studera/studium	study
+studerad	studied
+studiar/studera	studies
+stue, parlör	sitting room
+stuk/ personall	staff (n/n)
+stuk/kleba, adhera	stick (n/v)
+stup, presipiss	precipice
+stuta/siv	rush (v/n)
+subjekt (n)/underkasta (v subject
+subjektar	subjects
+subsidium	subsidy
+substans	substance
+substansjel	substantial
+substantiv	noun
+suejd	suede
+sueter, tröja	sweater
+sufera	suffer
+suferande	suffering
+sufisa	suffice
+sufisjent	sufficient
+sufisjentt	sufficient
+suga	suck
+sugesta	suggest
+sugestad	suggested
+sugestjon	suggestion
+suker	sugar
+sukerlag, siropp	syrup
+suksé	success
+suksedda	succeed
+sukses	success
+sukseslig, liukad	successful
+suksess/slag/tref	hit (n)
+sulten	hungry
+summa	amount
+summarie	summary
+summe	sum
+summe/total	total (n/a)
+sump	marsh
+sumpad	marshy
+sundebuk	scapegoat
+supe	soup
+supe-plate	soup-plate
+supe-sjej	soup-spoon
+superb	superb
+superfisjell	superficial
+superior	superior
+superlativ	superlative
+superstisjon	superstition
+supervisa, overvaka	supervise
+superviser, arbejtsledare supervisor
+supervisjon, upsikt	supervision
+suplementt	supplement
+suport/a	support
+suposera	suppose
+suposera, formoda, anta	suppose
+suposerad	supposed
+supresera, undertriuka	suppress
+sur	sour
+surfas	surface
+surfingbret	surfboard
+surpasera, overtrefa	surpass
+surplus, overskot	surplus
+surprendera, overaska	surprise (v)
+surprenderad, overaskad	surprised
+surprendering, overaskningsurprise (n)
+surrogat/erseta	substitute (n/v)
+sursar	sources
+survej, oversikt	survey (n)
+surveja	survey (v)
+suspekt, mistinkad	suspect (n)
+suspekta, mistinka, anta	suspect (v)
+suspendera	suspend
+suspensjon	suspension
+sustenans	sustenance
+sustenera	sustain
+suvenirr	souvenir
+svag	weak
+svagara	weaken
+svaghet	weakness
+svahili	Swahili
+svak	feeble
+svale, sluk/svala, sluka	swallow (n/v)
+svamp	sponge
+svan	swan
+svar	response
+svar/a	answer
+svar/a	reply (n/v)
+svarad	answered
+svarad	replied
+svart	black
+svart	negro
+svartber	blackberry
+svartfogel	blackbird
+sveisesöm/forenad	joint (n/a)
+svela, svulna	swell (v)
+svenga, gunga	swing (v)
+svenge, gunge	swing (n)
+svensk	Swede
+svensk	Swedish
+svepa, paka	wrap
+sver/a	vow (n/v)
+svera	swear
+sverd	sword
+Sverije	Sweden
+svet/sveta (sej)	sweat (n/v)
+svetsa	weld
+svigerfar	father-in-law
+svigerforeldrar	parents-in-law
+svigerine	sister-in-law
+svigermor	mother-in-law
+svigerson	son-in-law
+svima	swim
+svimad	swam
+svimbuksar, giumbuksar	trunks
+svimel	giddy
+svimelhet	giddiness
+svimer	swimmer
+svimmel	dizzy
+svimmelhet	dizziness
+svimning	swimming (n)
+svimning bolle	swimming pool
+svindel/svindla	swindle (n/v)
+svindler	swindler
+svineleder	pigskin
+svinköt	pork
+svit	suite
+svoger	brother-in-law
+svor, difikult	difficult
+svorighet, difikulthet	difficulty
+svulnad	swollen (a)
+Syrien	Syria
+syrisk/syrier	Syrian
+tabell/diagram	chart
+tablett	tablet
+tabu	taboo
+tak	roof
+tak	ceiling
+taka	take
+taka	takes
+taka av	take off (v)
+taka po slepp, bugsera	tow
+taka se I vare	beware
+takad	taken
+takad	took
+takande	taking
+takk	thanks
+takkera	thank
+takknemlig	grateful
+takknemlighet	gratitude
+takksam	thankful
+takserad, vurderad	estimated
+taktik	tactics
+tal	speech
+tal-lös	speechless
+tala om, bereta, saja	tell
+tala ut	speak up
+tala, prata/samtal	talk (v/n)
+tala, snaka	speak
+talad	spoke
+talad, pratad	talked
+talande	Talking
+talande	Speaking
+talang, begovning	talent
+tale	speech
+talong	stub
+tam/tema	tame (a/v)
+tampong	tampon
+tandar	teeth
+tandbörste	toothbrush
+tandkrem	toothpaste
+tandpeter	toothpick
+tandpuder	toothpowder
+tandverk	toothache
+tang	pliers
+tank	tank
+tanke/tinkad	thought (n/v)
+tankeful, omtinksam	thoughtful
+tankfartiug	tanker
+tante	aunt
+tapestrie	tapestry
+tapet	wallpaper
+tariff	tariff
+tariff, pris/farten	rate
+tarmar	bowels
+taverne	tavern
+tavle	blackboard
+taxi	taxi
+taxi stasjon	taxi stop
+taximeter	taxi meter
+taxisjoför	taxi driver
+te	tea
+teater	theater, theatre
+tegelpane	tile
+tegna up	design
+tegnefilm	cartoon
+tegneserie	comics
+tegning	drawing
+tejler, skreder	tailor
+tekanna	teapot
+teken, bevis	token
+teken, indikasjon	indication
+teken/underskriva	sign (n/v)
+tekenar	signs
+tekna/dra	draw
+teknik	technique
+teknikar	techniques
+tekniker	technician
+teknisk	technical
+teknologi	technology
+tekopp	teacup
+Teksas	Texas
+tekst	text
+tekstilvarer	drapery
+tekstuell	textual
+tekstur	texture
+tela/greve	count
+telefon samtal, ringe	telephone call
+telefon svarer	answering machine
+telefon/telefonera	phone (n/v)
+telefon/telefonera, ringa telephone (n/v)
+telefonhiut	telephone booth
+telefonist	operator
+telefonist	telephone operator
+telefonkatalog	telephone book
+telegrafera	telegraph (v)
+telegram	telegram
+telepati	telepathy
+televisjon	television
+televisjonsaparatt	television set
+telex	telex
+telt	tent
+tema	theme
+tempel	temple
+temperatur	temperature
+temporarisk, provisorisk	temporary
+temptasjon, frestelse	temptation
+temptera, fresta	tempt
+tena	light (v)
+tendens	tendency
+tendera	tend
+tenis	tennis
+tenisplan, tenisbane	tennis court
+tenn	tin (metal)
+tens	tense (a)
+tens-plug	sparkplug
+tensjon	tension
+tensjon	tension
+teologi	theology
+teoretisk	theoretical
+teori	theory
+tepid, ljum	tepid
+terapi	therapy
+terass	terrace
+tereng	terrain
+terible, forskreklig	terrible
+terifikk	terrific
+terifjera, forskreka	terrify
+teritorium, omrode	territory
+term, period, termin	term
+termar/periodar/terminar	terms
+terminal, endstasjon	terminal
+termometer	thermometer
+termostat	thermostat
+terorism	terrorism
+terorist	terrorist
+terorr, skrek	terror
+terpentine	turpentine
+terribel	awful
+tes	thesis
+tesalong	tea shop
+teservis	tea set
+tesjej	teaspoonful
+tesjej	teaspoon
+test, prov/a	test (n/v)
+tett	dense
+Thailand	Thailand
+thailendsk/thailender	Thai
+tia	keep quiet
+tid-sparande	time-saving
+tid/gang	time (n)
+tidar	times
+tidig	early
+tidigare	earlier
+tidligare	former
+tidskrift	journal
+tidskrift/periodikal	periodical (n/a)
+tidtabell	timetable
+tidvaten	tide
+tiga	beg
+tiger	beggar
+tiger	tiger
+til	to
+til selning	for sale
+til side	sideways
+tilata	allow
+tilatad	allowed
+tilbaka/bak	back
+tilbakebetala	reimburse
+tilbakebetala	repay
+tilbakebetaling	refund (n)
+tilbakebetaling	repayment
+tilbakegang	recession
+tildela	allot
+tildeling	assignment
+tilfelar/sakar	cases (gen/leg)
+tilfele/sak	case (gen/leg)
+tilfliasted	shelter (in general)
+tilfreds	content (a)
+tilgang, akses	access
+tilgia	forgive
+tilhöra	belong
+tillegg	surcharge
+tilmed, desuten	Moreover
+tils	till (prep)
+tils, til	Until
+tilsamen	together
+tilsjuer	spectator
+timar	hours
+timber	timber (n)
+time	hour
+timid	timid
+timiditet	timidity
+timjan	thyme
+tind, mager	thin
+ting, sak	thing
+tingar	things
+tingest	gadget
+tinka	think
+tinka sej, inbilla sej	imagine
+tinka ut	conceive
+tinkande	thinking
+tinker	thinker
+tio	ten
+tionde	tenth
+tip	tip (advice)
+tipar	types
+tipe/tipa, masjin-skriva	type (n/v)
+tipisk	Typical
+tirade	tirade
+tirann	tyrant
+tistel	thistle
+titel	title
+tiub	tube
+tiufus	typhoid
+tiugel	tool
+tiugelsett	toolkit
+tiur	bull
+tiurfektning	bullfight
+tiurfektningsarena	bullring
+tiusdag	Tuesday
+tiusk	German
+Tiuskland	Germany
+tjaut/a	yell (n/v)
+Tjekiske Republikk	Czech Republic
+tjena, fortjena	earn
+tjere	tar
+tjik	thick
+tjiknes	thickness
+tjuga	chew
+tjugagummi	chewing-gum
+tjuv	thief
+to	toe
+toalett	lavatory
+toalett	bathroom
+toalett	washroom
+toalett	toilet
+toalettartiklar	toiletries
+toalettbord	dressing-table
+tog	train (n)
+toke	fog
+tokelikt	foglamp
+toket	foggy
+tolera	tolerate
+tolerbar	tolerable
+toll	customs
+tollfri	duty-free
+tolv	twelve
+tolvte	twelfth
+tom/töma	empty (adj/v)
+tomatt	tomato
+ton	tone
+ton	ton
+tong	tongs
+tönne	barrel
+tonoring	teenager
+tonsilar	tonsils
+tonsilitis	tonsilitis
+top	peak
+tope/narra	fool (n/v)
+topelig, dum	foolish
+topik	topic
+topikell, aktuell	topical
+topp	summit
+topp, overside	top
+tor	tear (n, eye)
+tör/törka	DRY
+torka av, torka bort	wipe
+törkamasjijn	dryer
+törke	drought
+torment/a, ploga	torment (n/v)
+torn	tower
+torna, venda/vendning	turn (v/n)
+tornad	turned
+tornande	turning
+tornspire	steeple
+torsdag	Thursday
+torsk	cod
+törst	thirst
+törstig	thirsty
+tortiur/tortera	torture (n/v)
+tost, rostad bröd/skol	toast (n)
+tosta (bröd)/drinka til	toast (v)
+totaliterr	totalitarian
+totall	total
+totall	overall
+toxik	toxic
+tradisjon	tradition
+tradisjonell	traditional
+trafik	traffic
+tragedi	tragedy
+tragisk	tragic
+trakt	funnel
+traktat	treaty
+traktor	tractor
+trang	narrow
+trangsind	narrow-minded
+trankvil, lugn	tranquil
+trankviler, lugnande medeltranquilizer
+transaksjon	deal
+transaksjon	deal (n)
+transaksjon	transaction
+transatlantisk	transatlantic
+transfera	transfer
+transformer	transformer
+transformera, forvandla	transform
+transisjon, overgoing	transition
+transmisjon, sendning	transmission
+transmiter, sender	transmitter
+transparent, jenomsjinlig transparent
+transport	transport (n)
+transportabel	portable
+transportasjon	transportation
+transportbil	van
+transportera	transport (v)
+traps	staircase
+traps	stairs
+trast	thrush
+tre	wood
+tre-	wooden
+tred/a	step
+tredar	steps
+tredje	third
+treg	slack (a)
+trej	Tree
+trejar	trees
+trejkul	charcoal
+trejna	train (v)
+trejner/buss/vogn	coach
+trejning	training
+treka	pull
+treka fron	deduct
+treka ut	extract (v)
+trekad	pulled
+trekar	features
+trembla, sjelva	tremble
+tremendös	tremendous
+tresjur, skat	treasure
+tresjurer, skatmaster	treasurer
+tresjuri	treasury
+tresk	swamp
+trespassa, inkrekta	trespass
+trespasser, inkrekter	trespasser
+treti	thirty
+treton	thirteen
+tretonte	thirteenth
+trevla up	fray (v)
+tri	three
+tri-klöver	shamrock
+triangel	triangle
+triangulerr, trekantig	triangular
+tribute, hiulning	tribute (n)
+tributerr, biflod	tributary (n)
+trifirtedels-	three-quarter
+trikk	ruse
+trikk/a	trick (n/v)
+trikoar, strump-buksar	tights
+trikotasje	hosiery
+trima	trim
+trinse	pulley
+tripp, rese/stumbla	trip (n/v)
+trist	sad
+tristhet	sadness
+triumf/triumfera	triumph (n/v)
+triumfantt	triumphant
+triva	thrive
+tro	faith
+tro	faith
+tro	belief
+troa	believe
+troad	believed
+trod	wire
+trod	thread (n)
+troda up/insinuera	thread (v)
+trodbus	trolley
+trodsliten	threadbare
+trofast	faithful
+trome, troma	drum (n/v)
+tron	throne
+tropisk	tropical
+tros	Despite
+tros	in spite of
+trosar, underbukse	panties
+tröskel	threshold
+tross	despite
+tröta	tire (v)
+trötad	tired
+trötad, trötsam	weary
+trötsam	tiring
+troverdig	credible
+troverdig	trustworthy
+truble/trubla	trouble
+trublesam	troublesome
+truk/a	print (n/v)
+trumpet	trumpet
+truppar	troops
+trusar	underpants
+tubak	tobacco
+tubakshandler	tobacconist
+tuberkulos	tuberculosis
+tuisjon	tuition
+tulpan	tulip
+tum	inch
+tumar	inches
+tume	thumb
+tumörr	tumour
+tunelbane	subway
+tunfisk	tuna
+tung	heavy
+tunge	tongue
+tungt	heavily
+tunike	tunic
+Tunisien	Tunisia
+tunisisk/tunisier	Tunisian
+tunnel	tunnel
+tupej	hairpiece
+tur/köra, rida	ride (n/v)
+turbin	turbine
+turbojet	turbojet
+turism	tourism
+turist	tourist
+turist biuro	tourist office
+turistklass	tourist class
+turk	Turk
+Turki	Turkey
+turkisk	Turkish
+turnering	tournament
+turnsjoar	gym shoes
+turnsjoar	sneakers
+tusen	thousand
+tuta	hoot (v)
+tuta	honk (v)
+tute/tuta	toot (n/v)
+tuter	tutor
+tvett	washing (n)
+tvetta	wash
+tvettbar	washable
+tvettmasjin	washing machine
+tvijd	tweed
+tvilingar	twins
+tvo	two
+tvo gangar	twice
+tvodelad	two-piece
+tvoti	twenty
+tvotite	twentieth
+uaksepteble	unacceptable
+uanselig	inconspicuous
+uanstendig	indecent
+uansvarlig	unaccountable
+uautoriserad, uberettigad unauthorized
+ubehagelig	nasty
+ubehagelig	disagreeable
+ubekimrad	carefree
+ubesvarad	unanswered
+ubevethet	unconsciousness
+ubritad, intakt	unbroken
+ubritbar	unbreakable
+ubrukbar, upasande	unfit
+udenfor/utside	outside
+udesirabel, uönskelig	undesirable
+udubtadligt	undoubtedly
+udvikla, developera	develop
+udviklad, developerad	developed
+udvikling, development	development
+ueble, ike i stand til	unable
+uedukerad	uneducated
+uendelig	endless
+uendelig	infinite
+uerlig	dishonest
+ueviteble, unundviklig	unavoidable
+ufavorlig	unfavorable
+ufesta	unfasten
+ufolda	unfold
+uformell	informal
+uformell	casual
+uforsiktig	careless
+uforskammad	impudent
+uforstoelig	puzzling
+ufortjenad	unearned
+ufortunad, uliuklig	unlucky
+ufortunad, uliuklig	unfortunate
+ufortunadt, uliukligt	unfortunately
+uglad	unhappy
+ugle	owl
+ugress	weed
+uhelbredelig	incurable
+uhelsig	unwell
+uhelsig	unhealthy
+uinhabitad	uninhabited
+uinhabitbar	uninhabitable
+uintensjonell	unintentional
+ujemn	uneven
+ujöra, lösna upp	undo
+ujust	unjust
+ujust	unfair
+ukenad	unknown
+ukendelig	unknowable
+uklange	soundproof (a)
+ukleda sej	undress
+ukleda sej, remova	strip (v)
+uknapa	unbutton
+ukniuta	untie
+ukomfortabel	uneasy
+ukomfortabel	uncomfortable
+ukondisjonell	unconditional
+ukorka	uncork
+ukovera	uncover
+ukultiverad	uncultivated
+ukvalifiserad	unqualified
+ulasta	unload
+ulasta/ulaste	discharge
+ulempe	disadvantage
+ulera sej	unlearn
+uleselig	illegible
+ulik	unlike
+ulike	unequal
+ulimitad	unlimited
+uliuke	misfortune
+uliuke, aksident	accident
+ull	wool
+ulosa	unlock
+ulovlig	unlawful
+ultimatt, sista	ultimate
+ultraviolett	ultraviolet
+umedveten	unaware
+umenelig, svak	slight (a)
+umöblerad	unfurnished
+umodest	immodest
+umulig	impossible
+unaturlig, abnorm	abnormal
+under	below
+under	beneath
+under	under
+under	underneath
+under-kole	slip (n, garment))
+underbukse	drawers
+underbukse, bukse	pants
+underholda	entertain
+underholdande	entertaining
+underholder	entertainer
+underholdning	entertainment
+underjordisk/tunnelbane	underground (a/n)
+underkasta sej	submit
+underkledar	underclothes
+underkledar	underwear
+underlinja	underline
+underordnad	subordinate
+undersjört	undershirt
+underskrivad	undersigned
+undersöka	enquire
+undersöka, eksamina	examine
+undersökning	enquiry
+undersökning	check-up
+understreka	emphasize
+underström	undercurrent
+undertaksera, undervurderaunderestimate
+undertitel	subtitle
+undervatens-	underwater
+undgoa, evita	avoid
+undre/undra sej	marvel (n/v)
+undre/undra sej	wonder (n/v)
+undrelig	marvellous
+unesesari, unödig	unnecessary
+ung	young
+ungdom	Youth
+ungdomsherberge	youth hostel
+ungkar	bachelor
+uniform/konstant,likformiguniform (n/adj)
+unik	unique
+union, forening	Union
+univers	universe
+universell	universal
+universitet	University
+unlik, diferent	different
+unonsens	down-to-earth
+unormal stor	outsize
+unslipa, ungoa/flikt	escape
+unutherdlig, uberbar	unbearable
+uofisjell	unofficial
+uokuperad	unoccupied
+uopna	unwrap
+uorden	disorder
+upaka	unpack
+upartisk	impartial
+upasande	unsuitable
+upasbar	impassable
+updatera	update (v)
+uperfekt	imperfect
+upersonlig	impersonal
+upgift	task
+uplesant	unpleasant
+upnoa	attain
+upopulerr	unpopular
+upp	up
+upp	upstairs
+uppdrag	charge (assignment) 
+upphöjning	ridge
+upplada	upload
+uppmana/stark behöv	urge (v/n)
+uppover	upwards
+uppret	upright
+upprörad	upset (adj)
+uppskrift, resipe	recipe
+uppstand	rising
+uprobablig	unlikely
+uprotektad	unprotected
+uptakt	busy
+upteka	discover
+upteka, dekovera	discover
+uptekad, dekoverad	discovered
+uptekning	discovery
+ureal, uverklig	unreal
+urejsonabel	unreasonable
+uren	unclean
+uret	wrong
+uret, uproper	improper
+urett	injustice
+urin	urine
+urmaker	watchmaker
+urt	herb
+Uruguay	Uruguay
+uruguaysk/uruguayer	Uruguayan
+usan	untrue
+usatisfaktrig	unsatisfactory
+usiker, risklig	unsafe
+usjelvisk	unselfish
+usjuld	innocence
+usjuldig	innocent
+uskadad	unhurt
+uskruva	unscrew
+usnill/jenomsnit	mean (a/n)
+uspiselig	inedible
+ustabil	unstable
+ustadig	unsteady
+ustedad, uordentlig	untidy
+ustolbar	unreliable
+usukseslig, uliukad	unsuccessful
+usund	unsound
+usurpaserad, uovertrefad	unsurpassed
+ut	out
+ut-tala, pronunsa	pronounce
+utad	outwards (adv)
+utakksam	ungrateful
+utan	WITHOUT
+utan söm	seamless
+utbrudd	outbreak
+utdela, distribuera	distribute
+utdeler	distributor
+utdrag	extract (n)
+utdrag	excerpt
+utefrak	topcoat
+utendörs	outdoors
+utenlands	abroad
+uterfrak	overcoat
+utfordra/utfordring	challenge
+utgang	exit
+utgangspunkt	starting point
+utgave	edition
+utgiva	publish
+utgiva/utgivning	issue
+utgivad	published
+utgiver	publisher
+utgravning, ekskavasjon	excavation
+utholda	endure
+utholdenhet	stamina
+utilfreds	dissatisfied
+utilgangelig	inaccessible
+utilitet, brukbarhet	utility
+utinkbar	inconceivable
+utjuta	shed (v)
+utkant	outskirts
+utkast/a, designe/ra	design
+utkastad, designerad	designed
+utklipsbok	scrapbook
+utkopla, diskonekta	disconnect
+utlanding	foreigner
+utlanding/utlandsk	alien
+utlandsk, fremed	Foreign
+utleda	infer
+utleda	deduce
+utlöpa, ekspira	expire
+utlöpad, ekspirad	expired
+utmerka sej	excel
+utnamna	appoint
+utnamning/avtale	appointment
+utolelig	intolerable
+utolmudig	impatient
+utom	outside of
+utom, eksept, untakad	except
+utopia	utopia
+utploning	obliteration
+utpressa	extort
+utpressing	extortion
+utrasje	outrage
+utre	outer
+utrekning, kalkulasjon	calculation
+utrofast	unfaithful
+utroverdig	incredible
+utroverdig	untrustworthy
+utrustning	outfit
+utsending/utsenda	delegate
+utseta eler stopa	stall (v)
+utseta/utsetning	delay
+utside	exterior
+utsikt	outlook
+utsikt, prospekt	prospect (n)
+utsikt/betrakta	view (n/v)
+utsjering	carving
+utslett/forhastad, utinkadrash (n/a)
+utslitad	worn-out
+utsökad	exquisite
+utspring, surs	source
+utsprokning, pronunsiasjonpronunciation
+utstiker	pier
+utstila/utstiling	display
+utstiling, show	show (n)
+utstilings vindu	shop window
+utstilings-lokall	showroom
+utstoande	outstanding
+uttenka	devise
+uttseta	postpone
+utvandra	emigrate
+utvandrer	emigrant
+utvekla, evolvera	evolve
+utvendig	outward (adj)
+uvalid, tom	void
+uvalide	invalid (a)
+uvan, uakostumbrerad	unaccustomed
+uvanlig	unusual
+uvanlig	uncommon
+uveder, tempest	tempest
+uvelkenad	unfamiliar
+uvenlig	unfriendly
+uvenlig	unkind
+uventad	unexpected
+uverksom	idle (a)
+uverturr	overture
+uvetande	ignorant
+uviktig, unimportant	unimportant
+uvilig	unwilling
+uvillig	averse
+uvis	unwise
+uviss, useker	uncertain
+va	what
+va som helst	anything
+va som helst	whatever
+vada	wade
+vada	wade
+vadested	ford (n)
+vag	vague
+vagn	wagon
+vagransi	vagrancy
+vakansi	vacancy
+vakant, ledig	vacant
+vakantera	vacate
+vakasjon	vacation
+vakker	beautiful
+vakkerlig/ganska	pretty (adj/adv)
+vakla, stamma	falter
+vaksinasjon	inoculation
+vaksinasjon	vaccination
+vaksinera	inoculate
+vaksinera	vaccinate
+vaksinn	vaccine
+vakt/bevokta	guard (n/v)
+vaktel	quail (n)
+vaktmester	concierge
+vaktmester	caretaker
+vakuum	vacuum
+val	whale
+valej	valet
+valg	election
+valg	choice
+valid	valid
+valmue	poppy
+valnöt	walnut
+vals	waltz
+valuta	currency
+valvt	vault (architect)
+van, akostumbrerad	accustomed
+vandra	wander
+vandrer	walker
+vane	custom
+vanför	crippled
+vanille	vanilla
+vanlig	usual
+vanlig	customary
+vanligvis	customarily
+vanligvis	usually
+vannkran	faucet
+vapen	weapon
+vapenar	weapons
+vaporisator	atomizer
+var	were
+var	was
+var ike	wasn't
+vara prinsipal aktor	star (v)
+vara rajt	be right
+vara sjuldig, sjulda	owe
+vara/var	be (infin/imper)
+varande	being (ger)
+varandra	each other
+varar	merchandise
+varar	wares
+vardag	weekday
+varepröve/pröva	Sample (n/v)
+varfor	why
+varg	wolf
+variasjon, forandring	variation
+variera	vary
+varierad	varied
+varietet	variety
+varietet	variety
+varig	lasting
+varje	anyone
+varje	each
+varje	every
+varje time	hourly
+varm/a	warm
+varmeovn	heater
+varmerke	trademark
+varming	heating
+varna	warn
+varning	warning
+varsam	wary
+varsel/varsla, forutsea	forecast (n/v)
+vas	vase
+vasj	sink (n)
+vaskerij	laundry
+vast	vast
+vasthet	vastness
+vaten/vatna	water (n/v)
+vatenfall	waterfall
+vatenkrasse	watercress
+vatenmelon	watermelon
+vatenstof	hydrogen
+vatentet	rainproof
+vatentet	waterproof
+vatentet	waterproof
+vatenvej	waterway
+vatt	watt
+vax	wax
+ved side av	beside
+ved, po, hos, i	at
+ved/med/av	by
+vedda/vedde	bet
+veddelöp, rase/veddelöpa	race (n1,2/v)
+veddelöpsbane	race track
+veddelöpshest	race horse
+veder	weather
+vederkvarn	windmill
+vedlega	attach
+veffle/veffla	waffle (n/v)
+vega	weigh
+vegetariann	vegetarian
+vegetasjon	vegetation
+vegt	weight
+vehikle	vehicle
+vej	path
+vej, sett	way
+vejar	ways
+vejavgift	toll
+vejkant	roadside
+vejkrius	junction
+vejkro	roadhouse
+vejl/vejla	veil (n/v)
+vejleg	enclosure
+vejlega	enclose
+vejn	vein
+vejside	wayside
+vejskilt	milepost
+vejvaksel	crankshaft
+vejviser	signpost
+vejvkasse	crankcase
+vek	week
+vek-ende	weekend
+veka, vekna	wake (v)
+veka/vekad	awake
+vekar	weeks
+veker-kloke	alarm-clock
+veklig	weekly
+veksa	grow
+veksad/bliad	grew
+veksande	growing
+veksel	switch (n)
+veksen	grown-up
+veksla	switch (v)
+veksla/börs	exchange (v/n)
+veksla/veksling	Exchange
+vekst	growth
+vel, bra/frisk	well (adv/adj)
+velga	elect
+velga	choose
+velgad	chosen
+velgrundad	well-founded
+veljörandhet	charity
+velkenad	familiar
+velkenad	well-known
+velkenad, familjar	familiar
+velkomen/velkomna	welcome (a/v)
+velsigna	bless
+velsigning	blessing
+velsmakande	savory
+velsmakande	tasty
+velsmakera	season (v)
+velvarande/sosjalhelp	welfare
+velvet	velvet
+velvetinne	velveteen
+vem	whom
+vem	whom
+vem som helst	whoever
+vem/som	who (int/rel)
+vems	whose
+vems	whose
+ven	Friend
+venar	friends
+vend-punkt	turning point
+venen/invenenera	poison (n/v)
+venenös	poisonous
+venerabel	venerable
+Venezuela	Venezuela
+venezuelansk/venezuelan	Venezuelan
+venja, akostumbrera	accustom (v)
+venlig	friendly
+venligst	please
+venskap	friendship
+venster/lemnad	left
+venstre	left-hand
+venstre	left (a)
+venstre-handad	left-handed
+venta	wait
+venta	expect
+ventad	expected
+ventad	waited
+ventande	waiting
+venteliste	waiting list
+venterum	waiting room
+ventil	valve
+ventilasjon	ventilation
+ventilator	ventilator
+ventilera, lufta	ventilate
+ver	where
+veranda	veranda
+verb	verb
+verbell, munlig	verbal
+verde	worth
+verdelös	worthless
+verdiful	valuable
+verdig	dignified
+verdig	worthy
+verdikt, dom	verdict
+verhelst	wherever
+verifiera	verify
+verk/a	ache
+verken	neither
+verklig, san	true
+verklig, substansjell	substantial
+verkligvis, sant	truly
+verkstad	workshop
+verktiugel	utensil
+verld	world
+verldsberömad	world-famous
+verldvid	worldwide
+verme	warmth
+verre	worse
+vers	verse
+versjon	version
+verst	worst
+versus, kontra	versus
+vert	host (n)
+vert	landlord
+vertigo	vertigo
+vertikell	vertical
+vertinne	landlady
+vertinne	hostess
+vertshus	inn
+vertshusholder	innkeeper
+veske, pose	bag
+vessel	vessel
+vest	West
+vest	vest
+veste	waistcoat
+vestibull	lobby
+vestlig	Western
+vestlig	westerly
+veta	knows
+veta/kena	know
+vetad	knew
+vetad	known
+vetavilig	curious
+vetavilighet	curiosity
+vete	wheat
+vetenskap	Science
+vetenskaplig	scientific
+vetenskapsman	scientist
+veterinerr	veterinarian
+veva	weave
+vever	weaver
+vevnad	tissue (gen)
+vexlande/vexland	variable (adj/n)
+vi	we
+vi er	We're
+vi skal	we'll
+via	via
+viadukt	viaduct
+vibrasjon	vibration
+vibrera	vibrate
+video bandspeler	video recorder
+videokamera	video camera
+videokasett	video cassette
+videre	further
+vifla	whiffle
+vifte/vifta	fan (n/v)
+vifterem	fanbelt
+vigilant, vaksam	vigilant
+vigselring	wedding ring
+vik	inlet
+vik	creek
+viktig, important	important
+viktim	victim
+viktori	victory
+vila	wants
+vila	want
+vilad/sökad	wanted
+vilann	villain
+vild	WILD
+vilig	willing
+viljekraft	willpower
+vilken som helst, nogon	any
+vilkenhelst	whichever
+vill	fierce
+villa	villa
+vin	Wine
+vina	win
+vinad	won
+vind/vrida, slingra sej	wind (n/v)
+vindebro	drawbridge
+vindkast	gust
+vindsjild	windshield
+vindsjild torker	windshield wiper
+vindu, fönster	window
+vindubrede	window sill
+vinduslem/sjodde	shutter (arch/foto) 
+vindusröte	pane
+vineger	vinegar
+vinge	wing
+vingord	vineyard
+vinhandler	wine merchant
+vinkel	angle
+vinkeller	wine cellar
+vinliste	wine list
+vinna, profitera	gain
+vinranke	vine
+vintasje	vintage
+vinter	winter
+violasjon	violation
+violens, vold	violence
+violent, voldsam	violent
+violett	violet
+violin, fiol	violin
+vipe	seesaw
+virka, operera	operate
+virksomhet	enterprise
+virtu	virtue
+vis	wise
+visa	shows
+visa	point out
+visa/utstiling	show
+visad	shown
+visad	showed
+visande	showing
+visdom	wisdom
+visibilitet, sikt	visibility
+visible	visible
+visita/visite	visit (v/n)
+visiter	visitor
+visjon	vision
+visjon	vision
+visjös	vicious
+viska/viskning	whisper (v/n)
+viskeler	eraser
+visla/viselpipe	whistle (v/n)
+vispe/vispa	whip (n/v)
+visum	visa (n)
+vit	White
+vital	vital
+vitamin	vitamin
+vitling	whiting (n)
+vitlök	garlic
+vitna, testifjera	testify
+vitne/vitnera	witness (n/v)
+vitvaten	rapids
+vivid, livlig	vivid
+vog/a	dare (n/v)
+vog/vinka	wave (n/v)
+voga/fortak	venture (v/n)
+vogad	daring
+vogad	risqué
+vogforma sej	undulate
+vogig	wavy
+vogig	undulating
+voglengd	wavelength
+vogn	carriage
+vojs	voice
+vokabulerr	vocabulary
+vokal-	vocal
+vokalist	vocalist
+vokall	vowel
+vokasjonel	vocational
+voksen	adult
+voldtaka	rape
+volgrav	moat
+volium, bokband	volume
+volt	volt
+voltasje	voltage
+volunterisk	voluntary
+volunterr	volunteer
+vor	our
+vor, foror	springtime
+vot	wet
+vot-ret	suffrage
+vot/a	vote
+votig	moist
+votigera	moisten
+votighet	moisture
+votsojlad	muddy
+votsojle	mud
+vottar	mittens
+vrak/a	wreck (n/v)
+vrida/vridning	twist (v/n)
+vridad	wound (p wind)
+vuge	cradle
+vulgerr, vanlig	vulgar
+vulkann	volcano
+vulnerabel	vulnerable
+vunder/vundra	wonder
+vunderful	wonderful
+vundrad	wondered
+vurdar	values
+vurde/vurdera	value
+vurdera, evaluera	evaluate
+vurdering	estimate (n)
+vurm	worm
+zenit	zenith
+zink	zinc
+zodiak	zodiac
+zon, omrode	zone
+zoo, zu	zoo
+zoologi	zoology
