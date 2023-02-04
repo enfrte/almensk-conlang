@@ -10,6 +10,14 @@ Development of Almensk ended in 2008 and currently there are no plans to continu
 
 The archive contains the grammar, and dictionaries. It is an attempt to keep the memory of the language alive, and for people to appreciate the work that has gone into its creation. 
 
+### Links
+
+[A short grammar]('/SHORT-ALMENSK-GRAMMAR.txt')
+
+[Almensk to English vocabulary](Alm-Eng.txt)
+
+[English to Almensk vocabulary](eng-Alm.txt)
+
 ### License and copyright
 
 Donald Traxler has stated: *My Almensk language requires no license, and is not copyrighted. You are free to use it and share it as you wish. I am no longer developing it, so if you wish to develop it further, you can do that, too. Enjoy!*
