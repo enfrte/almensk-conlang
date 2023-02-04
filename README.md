@@ -12,7 +12,7 @@ The archive contains the grammar, and dictionaries. It is an attempt to keep the
 
 ### Links
 
-[A short grammar]('/SHORT-ALMENSK-GRAMMAR.txt')
+[A short grammar](/SHORT-ALMENSK-GRAMMAR.txt)
 
 [Almensk to English vocabulary](Alm-Eng.txt)
 
