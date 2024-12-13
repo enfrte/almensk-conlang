@@ -16,7 +16,7 @@ The archive contains the grammar, and dictionaries. It is an attempt to keep the
 
 [Almensk to English vocabulary](Alm-Eng.txt)
 
-[English to Almensk vocabulary](eng-Alm.txt)
+[English to Almensk vocabulary](Eng-Alm.txt)
 
 [Examples](https://github.com/enfrte/almensk-conlang/tree/master/examples)
 
