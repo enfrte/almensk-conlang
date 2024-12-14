@@ -75,12 +75,11 @@ The future is "skal vara," and the conditional is "skul vara."
 
 Examples:
 
-| Je            | Du            | Han           |
-|---------------|---------------|---------------|
-| Je er         | Du er         | Han er        |
-| Je var        | Du var        | Han var       |
-| Je skal vara  | Du skal vara  | Han skal vara |
-| Je skul vara  | Du skul vara  | Han skul vara |
+| Present        | Past          | Future            | Conditional        |
+|----------------|---------------|-------------------|--------------------|
+| Je er          | Je var         | Je skal vara      | Je skul vara       |
+| Du er          | Du var         | Du skal vara      | Du skul vara       |
+| Han er         | Han var        | Han skal vara     | Han skul vara      |
 
 | Imperative    |
 | ------------- |
