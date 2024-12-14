@@ -47,9 +47,9 @@ The ending -a of the present tense is dropped in the case of the first member of
 
 | Sentence                       |
 |--------------------------------|
-| Je kan goa                     |
-| Je vil goa (I want to go)      |
-| Je hav goad                    |
+| Je **kan** goa                 |
+| Je **vil** goa (I want to go)  |
+| Je **hav** goad                |
 
 <br>
 
